@@ -22,6 +22,7 @@ To post JSON data to the Flask API endpoint:
   "topic": "Generative AI"
 }
 
+
 6. Click on the "Send" button to submit the request.
 
 By this, you will get the required output.
